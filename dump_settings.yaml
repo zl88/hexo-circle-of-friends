@@ -1,0 +1,39 @@
+BLOCK_SITE:
+- ''
+DATABASE: sqlite
+DEPLOY_TYPE: github
+GITEE_FRIENDS_LINKS:
+  enable: false
+  owner: ccknbc
+  repo: blogroll
+  state: open
+  type: normal
+GITHUB_FRIENDS_LINKS:
+  enable: false
+  owner: ccknbc
+  repo: ccknbc-actions
+  state: open
+  type: normal
+HTTP_PROXY: false
+LINK:
+- link: https://zlblog.cf/link/
+  theme: butterfly
+MAX_POSTS_NUM: 5
+OUTDATE_CLEAN: 60
+SETTINGS_FRIENDS_LINKS:
+  enable: false
+  json_api: ''
+  list:
+  - - "\u661F\u6CB3\u57CE\u91CE"
+    - https://zlblog.cf/
+    - https://thirdqq.qlogo.cn/g?b=sdk&k=yqjbmdENrko19T7mjIc3vg&s=100&t=1655292317
+  - - "\u5F80\u65E5\u4FE1\u7B3A"
+    - https://www.xingmail.cn/
+    - https://www.xingmail.cn/wp-content/uploads/2023/04/1681742405-95c14c1.webp
+  - - "\u7405\u74B0\u4E66\u751F"
+    - https://www.zhuangzhi.love/
+    - https://z1.ax1x.com/2023/10/20/piFQxN8.jpg
+  - - "\u6D77\u9614\u84DD"
+    - https://blog.hklan.top/
+    - https://img.hklan.top/cover/%E5%9C%86%E5%A4%B4%E5%83%8F.png
+    - atom.xml
