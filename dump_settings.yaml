@@ -16,7 +16,7 @@ GITHUB_FRIENDS_LINKS:
   type: normal
 HTTP_PROXY: false
 LINK:
-- link: https://zlblog.cf/link/
+- link: https://blog.z-l.top/link/
   theme: common2
 MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
@@ -25,7 +25,7 @@ SETTINGS_FRIENDS_LINKS:
   json_api: ''
   list:
   - - "\u661F\u6CB3\u57CE\u91CE"
-    - https://zlblog.cf/
+    - https://friends/
     - https://thirdqq.qlogo.cn/g?b=sdk&k=yqjbmdENrko19T7mjIc3vg&s=100&t=1655292317
   - - "\u5F80\u65E5\u4FE1\u7B3A"
     - https://www.xingmail.cn/
